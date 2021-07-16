@@ -12,6 +12,14 @@ PROBLEM
  In this application you can fill your details on a page eg name,Phone no,location,food description and as soon you will post user/food seeker can get all food details in feed
  and user can delete the item from feed if he/she got that food.
  all details stored in firebase database.
+ new details will be at top then older and  then oldest.
+
+FEED PAGE LOOKS LIKE :
+
+ ![WhatsApp Image 2021-07-16 at 3 05 31 PM (1)](https://user-images.githubusercontent.com/75107024/125927284-7742007e-6c67-4f1b-be94-59de346f1fee.jpeg)
+ 
+ DETAIL FORM :
+![WhatsApp Image 2021-07-16 at 3 05 31 PM](https://user-images.githubusercontent.com/75107024/125927303-6c6622b5-742a-43c7-bd4d-72478d8a1fe0.jpeg)
  
  Language:
  JAVA
